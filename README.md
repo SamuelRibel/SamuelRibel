@@ -19,10 +19,6 @@
 <h3>Usefull links</h3>
 
 <ul>
-<li>
-  <img src="img/linkedin.png" width="20">
-  <a href="https://github.com/SamuelRibel" target="_blank" style="text-decoration: none; color: inherit; cursor: pointer;">LinkedIn</a>
-</li>
-
+    <li> <a href="www.linkedin.com/in/sam-ribel/" target="_blank"> <img src="img\linkedin.png" width="20"></a> <span>LinkedIn</span></li>
 </ul>
 
