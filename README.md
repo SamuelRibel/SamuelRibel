@@ -14,11 +14,11 @@
     <img src="img\python.png" width="50"/>
     <img src="img\website.png" width="50"/>
 </p>
-<!-- <h3>My projects</h3> -->/
+<!-- <h3>My projects</h3> -->
 
 <h3>Usefull links</h3>
 
 <ul>
-<li><img src="img\linkedin.png" width="20"><a href="https://www.linkedin.com/in/sam-ribel/?locale=en_US" target="_blank" text-decoration: none; color: blue; cursor: pointer;> LinkedIn</li>
+<li><img src="img\linkedin.png" width="20"><a href="https://www.linkedin.com/in/sam-ribel/?locale=en_US" target="_blank" style="text-decoration: none; color: blue; cursor: pointer;"> LinkedIn</li>
 </ul>
 
