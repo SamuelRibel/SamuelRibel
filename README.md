@@ -6,9 +6,15 @@
 </p>
 
 <h3>Tools on my workbench</h3>
-<img src="img\c-sharp.png" width="50"/> <img src="img\java-script.png" width="50"/> <img src="img\html.png" width="50"/> <img src="img\text.png" width="50"/> <img src="img\python.png" width="50"/> <img src="img\website.png" width="50"/>
-
-<!-- <h3>My projects</h3> -->
+<p>
+    <img src="img\c-sharp.png" width="50"/>
+    <img src="img\java-script.png" width="50"/>
+    <img src="img\html.png" width="50"/>
+    <img src="img\text.png" width="50"/>
+    <img src="img\python.png" width="50"/>
+    <img src="img\website.png" width="50"/>
+</p>
+<!-- <h3>My projects</h3> -->/
 
 <h3>Usefull links</h3>
 
