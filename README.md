@@ -19,6 +19,6 @@
 <h3>Usefull links</h3>
 
 <ul>
-<li><img src="img\linkedin.png" width="20"><a href="https://www.linkedin.com/in/sam-ribel/?locale=en_US" target="_blank"> LinkedIn</li>
+<li><img src="img\linkedin.png" width="20"><a href="https://www.linkedin.com/in/sam-ribel/?locale=en_US" target="_blank" text-decoration: none; color: blue; cursor: pointer;> LinkedIn</li>
 </ul>
 
